@@ -8,6 +8,7 @@ I work at the intersection of product, technology, and data — translating comp
 
 - **[dAIgest](https://daigest.xyz)** — AI-powered news platform with automated story briefs and citation-backed conversational Q&A.
 - **[ML-Projects](https://github.com/gairikzzz/ML-Projects)** — Machine learning, predictive modelling, and analytics projects.
+- **[Data Science Projects](https://github.com/gairikzzz/Data-Science-Projects)** — Coursework and notebook-based data science and machine-learning experiments.
 - **[DemocraTech](https://www.canva.com/design/DAGNd9QMtEU/qE6Oh_cVnjqO2xHiSlIXBA/edit)** — Blockchain-based e-voting concept with voter research and go-to-market planning.
 
 ### 🧠 Areas I Work With
