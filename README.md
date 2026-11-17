@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Gairik Chakraborty 👋
 
-<!--
-**gairikzzz/gairikzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product Manager | AI & Technology | Building useful AI-powered products**
 
-Here are some ideas to get you started:
+I work at the intersection of product, technology, and data — translating complex problems into practical products. I'm particularly interested in applied AI, GenAI, agentic systems, and products that create measurable business impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+- **[dAIgest](https://daigest.xyz)** — AI-powered news platform with automated story briefs and citation-backed conversational Q&A.
+- **[ML-Projects](https://github.com/gairikzzz/ML-Projects)** — Machine learning, predictive modelling, and analytics projects.
+- **[DemocraTech](https://www.canva.com/design/DAGNd9QMtEU/qE6Oh_cVnjqO2xHiSlIXBA/edit)** — Blockchain-based e-voting concept with voter research and go-to-market planning.
+
+### 🧠 Areas I Work With
+
+- **AI:** GenAI, Agentic AI, RAG, NLP, Prompt Engineering
+- **Frameworks:** LangChain, LangGraph, LangSmith, PydanticAI, FastAPI
+- **Data & Analytics:** Python, SQL, Power BI, Tableau
+- **Cloud & Automation:** Azure, Firebase, n8n, Zapier
+- **Product:** Product strategy, discovery, experimentation, analytics, roadmapping
+
+### 🔗 Find Me
+
+- [Portfolio](https://gairik.tech)
+- [LinkedIn](https://www.linkedin.com/in/gairikchakraborty)
+- [GitHub](https://github.com/gairikzzz)
