@@ -22,4 +22,3 @@ I work at the intersection of product, technology, and data — translating comp
 
 - [Portfolio](https://gairik.tech)
 - [LinkedIn](https://www.linkedin.com/in/gairikchakraborty)
-- [GitHub](https://github.com/gairikzzz)
